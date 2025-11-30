@@ -9,7 +9,7 @@ through **Vercel v0**.
 ---
 
 ## 🚀 Live Demo  
-🔗 **Live Deployed Link:**[ _Add your Vercel link here_ ](https://vercel.com/xinn1123s-projects/urbanflare-xinn-001) 
+🔗 **Live Deployed Link:**[ _Add your Vercel link here_ ](https://urbanflare-xinn-001.vercel.app/)) 
 🔗 **GitHub Repository:** [LINK HERE ](https://github.com/XINN1123/Urban-Flare)
 
 ---
